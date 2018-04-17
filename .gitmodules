@@ -1,0 +1,3 @@
+[submodule ".github-asana"]
+	path = .github-asana
+	url = git@github.com:findlimit4desire/github-asana.git
