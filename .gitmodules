@@ -1,0 +1,6 @@
+[submodule ".github-asana/.githooks"]
+	path = .github-asana/.githooks
+	url = git@github.com:findlimit4desire/github-asana.git
+[submodule ".github-asana/modules/python-asana"]
+	path = .github-asana/modules/python-asana
+	url = https://github.com/Asana/python-asana.git
